@@ -17,7 +17,7 @@ To give a starting point, some things that might be interesting to discover woul
 
 1. How is the City doing on our Service Level Agreement (SLA) with Customers in the plan review process?  Each permit might have an 'Addressing', 'Building Review', 'Fire Review','Routing', or 'Zoning Review' task - and the SLA Achievement for each task should be treated separately.  Are there certain record types that are consistantly failing to meet the SLA? Does it depend on another attribute?  What else did you discover?  To analyze the SLA Achievement, you should only need to utilize one view which has been exported as 'FirstPlanReview_SLA_Achievement.csv'
 
-2. 
+2. We have exported the major Accela transactional tables and made them available to you here.  Our citizens and internal management would like to know what's going on with permits in the City.  What do you think would be interesting to discover and present to the citizens or  
 
 ##Data & File Definitions
 

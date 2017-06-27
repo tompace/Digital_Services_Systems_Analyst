@@ -17,17 +17,34 @@ To give a starting point, some things that might be interesting to discover woul
 
 1. How is the City doing on our Service Level Agreement (SLA) with Customers in the plan review process?  Each permit might have an 'Addressing', 'Building Review', 'Fire Review','Routing', or 'Zoning Review' task - and the SLA Achievement for each task should be treated separately.  Are there certain record types that are consistantly failing to meet the SLA? Does it depend on another attribute?  What else did you discover?  To analyze the SLA Achievement, you should only need to utilize one view which has been exported as 'FirstPlanReview_SLA_Achievement.csv'
 
-2. We have exported the major Accela transactional tables and made them available to you here.  Our citizens and internal management would like to know what's going on with permits in the City.  What do you think would be interesting to discover and present to the citizens or  
+2. We have exported the major Accela transactional tables and made them available to you on this repo.  Our citizens and internal management would like to know what's going on with permits in the City.  What do you think would be interesting to discover and present to the citizens or management? Construct a SQL database using the data provided and creatively express any fun and useful information that you may discover.  
+Getting started: One useful chart would be visualizing the percentage of permits opened utilizing the City's website vs opened in-house, over time. If B1PERMIT.B1_CREATED_BY is like 'PUBLICUSER', then the permit was created using the website... else it was in-house.
+There's a ton of great info here for you to consume.  We've included address and parcel table exports in case you'd like to create a map.  It's all up to you!
+
+The intention is not to have you spend a prohibative amount of time on this submission.  It's to give you an idea of some of the things that you might actally be working on if you were to accept this position; and to give us an idea of how you work.  Be as creative as you'd like, show-off, be snarky... whatever floats.
 
 ##Data & File Definitions
 
+1. Accela Reporting Basics - SQL Server.pdf - overview on the Accela reporting basics.
+2. FirstPlanReview_SLA_Achievement.csv - view export - simplified view of Service Level Achievement data for first plan reviews.
+3. Accela_data_dictionary.csv - table export - data dictionary for the Accela tables.
+4
+5.
+6.
+7.
+8.
+9.
+10
+11.
+
+
 ##Rules
 
-Keep it simple. We are not looking for a finished product but want to learn a little more about your skills and how you approach problems. Think of your delivery as something “mininmal” that is on the road to awesome. You may submit results via GitHub or Google Drive.
+Keep it simple. We are not looking for a finished product but want to learn a little more about your skills and how you approach problems. Think of your delivery as something “mininmal” that is on the road to awesome. You may submit results via GitHub, Google Drive, a web dashboard, etc.
 
 Move the data into a MSSQL Server Database. You can download SQL Server Express from Microsoft for free. If you’d rather approach this differently, let us know why.
 Use any reporting tool you like or any other visualization tools/techniques.
-You may use, borrow anything you want but the work should be done by you.
+You may use, borrow anything you want (reference where appropriate), but the work should be done by you.
 You may email us with any questions. tpace@ashevillenc.gov or use this repo’s issues.
 
 ##Submissions

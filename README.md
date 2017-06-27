@@ -30,8 +30,8 @@ The intention is not to have you spend a prohibative amount of time on this subm
 3. Accela_data_dictionary.csv - table export - data dictionary for the Accela tables.
 4. Accela table exports (referenced in 'Accela Reporting Basics - SQL Server.pdf')
   * B1PERMIT.csv
-  * B3ADDRES.csv
-  * B3PARCEL.csv
+  * B3ADDRES.csv (inside B3ADDRES.zip)
+  * B3PARCEL.csv (inside B3PARCEL.zip)
   * BPERMIT_DETAIL.csv
   * BWORKDES.csv
   * F4FEEITEM.csv
@@ -39,7 +39,7 @@ The intention is not to have you spend a prohibative amount of time on this subm
 
 ## Rules
 
-Keep it simple. We are not looking for a finished product but want to learn a little more about your skills and how you approach problems. Think of your delivery as something “minimal” that is on the road to awesome. You may submit results via GitHub, Google Drive, a web dashboard, etc.
+Keep it simple. We are not looking for a finished product but want to learn a little more about your skills and how you approach problems. Think of your delivery as something “minimal” that is on the road to awesome. You may submit results via GitHub Pages, Google Drive, a web dashboard, etc.
 
 Move the data into a MSSQL Server Database. You can download SQL Server Express from Microsoft for free. If you’d rather approach this differently, let us know why.
 Use any reporting tool you like or any other visualization tools/techniques.

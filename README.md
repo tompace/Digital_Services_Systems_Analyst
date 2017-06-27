@@ -9,7 +9,7 @@ At the City of Asheville, we provide citizens and city employees with access to 
 
 ##The Task 
 
-If you are hired for this position, part of your job would be workig with data to extract userful information for internal and external users alike.  We’d like you to complete a small task so that we can learn about how you approach problems, and hopefully get to know you better in the process.  We will provide you exports from our pemirtting database (Accela), a data dictionary, and a good overview on the Accela reporting basics.  
+If you are hired for this position, part of your job would be workig with data to extract userful information for internal and external users alike.  We’d like you to complete a small task so that we can learn about how you approach problems, and hopefully get to know you better in the process.  We will provide you exports from our permitting database (Accela), a data dictionary, and a good overview on the Accela reporting basics.  
 
 We'd like you work with the data provided and share with us any useful information that you may come up with.  Be as creative as you'd like to in the way that you share.  
 

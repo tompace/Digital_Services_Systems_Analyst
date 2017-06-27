@@ -28,15 +28,14 @@ The intention is not to have you spend a prohibative amount of time on this subm
 1. Accela Reporting Basics - SQL Server.pdf - overview on the Accela reporting basics.
 2. FirstPlanReview_SLA_Achievement.csv - view export - simplified view of Service Level Achievement data for first plan reviews.
 3. Accela_data_dictionary.csv - table export - data dictionary for the Accela tables.
-4
-5.
-6.
-7.
-8.
-9.
-10
-11.
-
+4. Accela table exports (referenced in 'Accela Reporting Basics - SQL Server.pdf')
+4.1. B1PERMIT.csv
+4.2 B3ADDRES.csv
+4.3 B3PARCEL.csv
+4.4 BPERMIT_DETAIL.csv
+4.5 BWORKDES.csv
+4.6 F4FEEITEM.csv
+4.7 F4PAYMENT.csv
 
 ##Rules
 
